@@ -13,6 +13,7 @@ Project Description - My mother works as a teacher in an NGO-based school. Her s
 * Shows achievements of school.
 * You can see photos of events and celebrations.
 * Allows interested people to donate for the cause.
+* This is a responsive website.
 
  <br /> <br />
 
