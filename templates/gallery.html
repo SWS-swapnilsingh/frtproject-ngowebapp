@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GALLERY</title>
+    <style>
+        html {
+            background: #edf2fa;
+        }
+        img {
+            height: 300px;
+        }
+        h1 {
+            margin-bottom: -17px;
+        }
+        .hero-btn{
+            display: inline-block;
+            text-decoration: none;
+            color: #4d0def;
+            border: 1px solid #4b16ea;
+            padding: 12px 34px;
+            font-size: 13px;
+            background: transparent;
+            position: relative;
+            cursor: pointer;
+            right: -20%;
+            top: -657px;
+            
+        }
+        .hero-btn:hover{
+            border: 1px solid #4b16ea;
+            background: #4b16ea;
+            color: white;
+            transition: 0.7s;
+        }
+        h4 {
+            color:rgb(83, 82, 82)
+        }
+    </style>
+</head>
+<body>
+    <h1>GALLERY</h1>
+    <h4>Photos Of Events And Celebrations</h4>
+    {% for url in img_urls %}
+        <img src="{{url}}" alt="nothing">
+    {% endfor %}
+    <a class="hero-btn" href="/">Home</a>
+</body>
+</html>
