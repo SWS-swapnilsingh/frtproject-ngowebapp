@@ -1,8 +1,9 @@
 # ✨ FRT Project ✨
+PROTOTYPE OF ACTUAL WEBAPP
 
 Project Link (GitHub repository URL) - https://github.com/SWS-swapnilsingh/frtproject-ngowebapp  <br />
 Project Demo URL - https://frtmywebapp1.azurewebsites.net/  <br />
-Project Demo Video URL -   <br />
+Project Demo Video URL - https://www.youtube.com/watch?v=Dx0zGDvAe8I&ab_channel=QwertyQzerty  <br />
 
 Industry Type - Ed-Tech  <br />
 Project Title - Web application for NGO based school  <br /><br />
